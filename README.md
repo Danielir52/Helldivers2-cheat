@@ -32,10 +32,11 @@
   | Armory Allure | Equip yourself with the full spectrum of arms and armor, from the mundane to the mythical |
   | Armor Arsenal | Don the finest protective gear; no obstacle can stand in your way |
 </details>
+
 ## How to Use
-### - Download the files.
-### - Extract the files into the Helldivers 2 game folder (the same folder as helldivers2.exe).
-### - Run the .exe file.
-### - Choose a Feature (Navigate using the arrow keys, press space to select/unselect).
-### - Press Enter to apply the selected features.
-### - Happy Cheating!
+### Download the files.
+### Extract the files into the Helldivers 2 game folder (the same folder as helldivers2.exe).
+### Run the .exe file.
+### Choose a Feature (Navigate using the arrow keys, press space to select/unselect).
+### Press Enter to apply the selected features.
+### Happy Cheating!
