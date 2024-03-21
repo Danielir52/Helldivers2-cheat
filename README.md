@@ -1,7 +1,7 @@
 # Helldivers 2 С++ Hack
 ## Feature List
 <details>
-  <summary>Unlock the Secrets</summary>
+  <summary>Click to view</summary>
   
   | Cheat | Description |
   |----------|----------|
